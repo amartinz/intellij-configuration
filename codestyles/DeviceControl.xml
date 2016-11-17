@@ -27,7 +27,7 @@
       <emptyLine />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="140" />
+  <option name="RIGHT_MARGIN" value="150" />
   <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   <JavaCodeStyleSettings>
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
